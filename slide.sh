@@ -1,4 +1,6 @@
 #!/bin/bash
+# Source : https://github.com/ryanuber/slide.sh
+
 function slide() {
     local -r TPUT=$(type -p tput || kill -9 $$)
     local -r IFS='' MESSAGE=${1:-↲ Next | ^c Quit}
