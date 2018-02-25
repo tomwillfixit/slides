@@ -1,0 +1,8 @@
+!!center
+This container was built from the following dockerfile :
+<green>!!sep<end>
+
+!!nocenter
+<green>
+$(cat /opt/slide/Dockerfile)
+<end>

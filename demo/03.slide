@@ -1,0 +1,20 @@
+!!center
+Shellinabox is cool!
+<green>!!sep<end>
+
+!!nocenter
+
+More details can be found here :
+<blue>
+https://github.com/shellinabox/shellinabox
+<end>
+
+Wrapping tools like Container Top (ctop) in shellinabox allows you to view 
+container stats from the browser.
+
+An example can be found here : 
+<blue>
+https://github.com/tomwillfixit/csst-stack
+<end>
+
+The rest of the slides in this deck are from the shell.sh repo.
