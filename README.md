@@ -18,7 +18,7 @@ docker build -t slides:latest .
 
 docker run -d --name demo -p 8080:8080 slides:latest
 
-Open browser : http://localhost:8080
+Open browser : http://localhost:8080/demo
 
 ### Share Presentation
 
